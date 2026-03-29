@@ -36,10 +36,14 @@ Projet final de Machine Learning avec Ognjen et Yuzhen sur le dataset Kaggle Sta
 ### Step 1 — Exploratory Data Analysis (EDA)
 - Check shape, data types, missing values
 - Compute descriptive statistics (`mean`, `std`, `min`, `max`)
-- Visualize distributions of numerical features (histograms)
-- Visualize class balance of `outcome` (bar chart)
-- Visualize correlations between numerical features (heatmap)
-- Analyze categorical features (`investor_type`, `sector`, `founder_background`) with value counts
+
+**Charts:**
+- Histograms of all numerical features (with log scale if skewed)
+- Bar chart of `outcome` class distribution (class balance check)
+- Correlation heatmap between numerical features
+- Bar charts of categorical feature value counts (`investor_type`, `sector`, `founder_background`)
+- Box plots of numerical features grouped by `outcome` (to spot separability)
+- Scatter matrix (pairplot) of key numerical features colored by `outcome`
 
 ---
 
@@ -47,12 +51,20 @@ Projet final de Machine Learning avec Ognjen et Yuzhen sur le dataset Kaggle Sta
 - **Numerical features:**
   - Check for skewed distributions → apply log transform if needed
   - Standardize (center + normalize variance) using `StandardScaler`
-- **Categorical features:**
+- **Categorical features (from TD03):**
+  - Analyze frequency distribution of each categorical feature
+  - Explore relationship between categories and `outcome` (grouped bar charts)
   - Encode using `OrdinalEncoder` or one-hot encoding
-- **Missing values:**
-  - If present: use `SimpleImputer` (mean/median) or `IterativeImputer` (MICE) as in TD10
+  - Handle rare/unknown categories
+- **Missing values (from TD10):**
+  - If present: use `SimpleImputer` (mean/median) or `IterativeImputer` (MICE)
+  - Compare imputation strategies visually (distribution before/after)
 - **Train/Test split:** 80/20 with `train_test_split(random_state=42)`
 - Wrap all steps in a `Pipeline` per model
+
+**Charts:**
+- Before/after distribution plots for log transforms
+- Grouped bar charts: `outcome` rate per `sector`, per `investor_type`, per `founder_background`
 
 ---
 
@@ -80,6 +92,13 @@ For the best model(s):
 - **ROC Curve + AUC** (one-vs-rest for multiclass)
 - Visualize feature importances (for Decision Tree)
 
+**Charts:**
+- Bar chart: cross-validation mean accuracy ± std for all models
+- Heatmap: confusion matrix for best model
+- ROC curves (one curve per class, one-vs-rest)
+- Bar chart: feature importances (Decision Tree)
+- Learning curve: training vs validation score as a function of training set size
+
 ---
 
 ### Step 4 — Unsupervised Learning: Clustering (as in TD06)
@@ -106,6 +125,13 @@ Goal: Discover natural groupings of startups without using `outcome`
 - Compute mean feature values per cluster
 - Compare cluster compositions with `outcome` labels (for insight, not training)
 - Visualize cluster profiles with bar charts
+
+**Charts:**
+- Elbow curve: inertia vs number of clusters k
+- Dendrogram: hierarchical clustering tree
+- 2D scatter plot: clusters in PCA space (colored by cluster label)
+- 2D scatter plot: same PCA space colored by true `outcome` (comparison)
+- Grouped bar chart: mean feature values per cluster (cluster profiles)
 
 ---
 
