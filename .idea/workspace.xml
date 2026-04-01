@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scientificProject1/task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject1/task.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject1/report/startup_success_report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject1/report/startup_success_report.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1775059293679" duration="1058000" />
       <workItem from="1775060708427" duration="3018000" />
       <workItem from="1775063937609" duration="210000" />
-      <workItem from="1775074105896" duration="5830000" />
+      <workItem from="1775074105896" duration="7035000" />
     </task>
     <task id="LOCAL-00001" summary="vdsv">
       <option name="closed" value="true" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775062083162</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="vdsvcs">
+      <option name="closed" value="true" />
+      <created>1775080759134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1775080759135</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
