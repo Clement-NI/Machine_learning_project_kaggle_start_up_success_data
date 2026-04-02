@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs" />
+    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject1/task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject1/task.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,19 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Yuzhen__modification&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PSL_M1/AI/Project_final/Machine_learning_project_kaggle_start_up_success_data/scientificProject1/data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Yuzhen__modification",
+    "last_opened_file_path": "D:/PSL_M1/AI/Project_final/Machine_learning_project_kaggle_start_up_success_data/scientificProject1/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PSL_M1\AI\Project_final\Machine_learning_project_kaggle_start_up_success_data\scientificProject1\data" />
@@ -191,7 +195,7 @@
       <workItem from="1775060708427" duration="3018000" />
       <workItem from="1775063937609" duration="210000" />
       <workItem from="1775074105896" duration="7035000" />
-      <workItem from="1775125685081" duration="15224000" />
+      <workItem from="1775125685081" duration="16938000" />
     </task>
     <task id="LOCAL-00001" summary="vdsv">
       <option name="closed" value="true" />
@@ -377,7 +381,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775159951891</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="vdsvcs">
+      <option name="closed" value="true" />
+      <created>1775159997965</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1775159997965</updated>
+    </task>
+    <task id="LOCAL-00025" summary="vdsvcs">
+      <option name="closed" value="true" />
+      <created>1775161381930</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1775161381930</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
