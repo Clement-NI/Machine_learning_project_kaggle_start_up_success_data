@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs" />
+    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +196,8 @@
       <workItem from="1775074105896" duration="7035000" />
       <workItem from="1775125685081" duration="16938000" />
       <workItem from="1775167112442" duration="26000" />
-      <workItem from="1775199209248" duration="869000" />
+      <workItem from="1775199209248" duration="1976000" />
+      <workItem from="1775203482472" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="vdsv">
       <option name="closed" value="true" />
