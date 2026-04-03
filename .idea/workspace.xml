@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="vdsvcs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +194,7 @@
       <workItem from="1775074105896" duration="7035000" />
       <workItem from="1775125685081" duration="16938000" />
       <workItem from="1775167112442" duration="26000" />
-      <workItem from="1775199209248" duration="524000" />
+      <workItem from="1775199209248" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="vdsv">
       <option name="closed" value="true" />
@@ -422,11 +420,30 @@
       <option name="project" value="LOCAL" />
       <updated>1775165155219</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="vdsvcs">
+      <option name="closed" value="true" />
+      <created>1775199901862</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1775199901862</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vdsv" />
