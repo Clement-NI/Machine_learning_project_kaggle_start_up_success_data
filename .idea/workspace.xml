@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="修改编号" />
+    <list default="true" id="c18df93f-24cf-4936-9399-dcf6250d15eb" name="Changes" comment="修改编号">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject1/task.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject1/task.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +81,8 @@
       <workItem from="1775203482472" duration="502000" />
       <workItem from="1775204009915" duration="19000" />
       <workItem from="1775230075219" duration="41000" />
-      <workItem from="1775230306133" duration="1258000" />
+      <workItem from="1775230306133" duration="2151000" />
+      <workItem from="1775243161210" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="vdsv">
       <option name="closed" value="true" />
@@ -336,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775231527243</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="修改编号">
+      <option name="closed" value="true" />
+      <created>1775231863989</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1775231863989</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
